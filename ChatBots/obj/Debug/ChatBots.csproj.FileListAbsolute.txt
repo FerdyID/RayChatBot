@@ -1,0 +1,17 @@
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\bin\Debug\ChatBots.exe.config
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\bin\Debug\ChatBots.exe
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\bin\Debug\ChatBots.pdb
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\obj\Debug\ChatBots.Form1.resources
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\obj\Debug\ChatBots.Properties.Resources.resources
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\obj\Debug\ChatBots.csproj.GenerateResource.Cache
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\obj\Debug\ChatBots.exe
+C:\Users\Yurani\AppData\Local\Temporary Projects\ChatBots\obj\Debug\ChatBots.pdb
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\bin\Debug\ChatBots.exe.config
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\obj\Debug\ChatBots.exe
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\obj\Debug\ChatBots.pdb
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\bin\Debug\ChatBots.exe
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\bin\Debug\ChatBots.pdb
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\obj\Debug\ChatBots.Properties.Resources.resources
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\obj\Debug\ChatBots.csproj.GenerateResource.Cache
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\obj\Debug\ChatBots.csprojResolveAssemblyReference.cache
+C:\Users\Yurani\Documents\Visual Studio 2012\Projects\ChatBots\ChatBots\obj\Debug\ChatBots.Form1.resources
