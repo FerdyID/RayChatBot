@@ -7,5 +7,5 @@ RayChatBot is a source code to make a chat bot program with array system. We can
 Every word will be stored to Local Array, so, if you close this program, your word teaching before will be dissapire. You must store this to database, if you want to have a permanent expressions.
 
 ![alt text](http://image.prntscr.com/image/6a623c9e148d4512abb3933aa7ee3a40.jpg "Image Program")
-
+<b>Note:</b> This code is not case insensitive, you must code by yourself if you want to make this code case insensitive
 Source code by <b>Yurani Corporation</b>
